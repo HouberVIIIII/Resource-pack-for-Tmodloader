@@ -1,0 +1,9 @@
+{
+    "Name": "My Custom Boss Names",
+    "Author": "Me",
+    "Description": "Renaming Bosses",
+    "Version": {
+        "major": 1,
+        "minor": 0
+    }
+}
